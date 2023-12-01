@@ -30,7 +30,7 @@
 							<div class="contact-form">
 
 								<!-- Contact Form -->
-								<form method="post" action="sendemail.php" id="contact-form">
+								<form method="post" action="mail.php" id="contact-form">
 									<div class="row clearfix">
 
 										<div class="col-lg-6 col-md-6 col-sm-12 form-group">
@@ -42,7 +42,7 @@
 										</div>
 
 										<div class="col-lg-6 col-md-6 col-sm-12 form-group">
-											<input type="text" name="mobile" placeholder="Mobile Number" required="">
+											<input type="number" name="mobile" placeholder="Mobile Number" required="">
 										</div>
 
 										<div class="col-lg-6 col-md-6 col-sm-12 form-group">
