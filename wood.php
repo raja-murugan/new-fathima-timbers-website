@@ -114,6 +114,30 @@
 						</div>
 					</div>
 
+					<!-- Services Block -->
+					<div class="services-block col-lg-4 col-md-6 col-sm-12">
+						<div class="inner-box">
+							<div class="image">
+								<img src="images/resource/service-8.jpg" alt="">
+							</div>
+							<div class="lower-box">
+								<h3><a href="javascript:void(0)">Burma Wood</a></h3>
+							</div>
+						</div>
+					</div>
+
+					<!-- Services Block -->
+					<div class="services-block col-lg-4 col-md-6 col-sm-12">
+						<div class="inner-box">
+							<div class="image">
+								<img src="images/resource/service-9.jpg" alt="">
+							</div>
+							<div class="lower-box">
+								<h3><a href="javascript:void(0)">Mahogony Wood</a></h3>
+							</div>
+						</div>
+					</div>
+
 				</div>
 			</div>
 		</section>

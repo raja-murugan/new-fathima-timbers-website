@@ -7,8 +7,8 @@
 				<div class="slide" style="background-image:url(images/main-slider/image-3.jpg)">
 					<div class="auto-container">
 						<div class="content">
-							<h2>Exquisite Timbers,<br> Timeless Craftsmanship</h2>
-							<div class="text">
+							<h2 style="color:black">Exquisite Timbers,<br>Timeless Craftsmanship</h2>
+							<div class="text" style="color:black">
 								Discover the allure of fine woods, expertly crafted for you.
 							</div>
 							<div class="link-box">
@@ -43,7 +43,7 @@
 							</div>
 							<div class="text">
 								<p>
-									Embark on a journey with Fathima Timbers, your gateway to premium imported woods and exquisite woodworking services. 
+									Embark on a journey with New Fathima Timbers, your gateway to premium imported woods and exquisite woodworking services. 
 									From crafting bespoke furniture to general carpentry and hang paintings, we blend tradition with innovation to redefine your spaces. 
 									Explore the artistry of fine wood with us.
 								</p>

@@ -32,11 +32,11 @@
 
 							<!-- Sec Title -->
 							<div class="sec-title">
-								<h2>About Fathima Timbers</h2>
+								<h2>About New Fathima Timbers</h2>
 								<div class="separate"></div>
 							</div>
 							<div class="text">
-								At Fathima Timbers, we believe that every space deserves to reflect the unique stories and preferences of its owner. Our journey began with a commitment to redefine the standards of quality and innovation in the world of wood. 
+								At New Fathima Timbers, we believe that every space deserves to reflect the unique stories and preferences of its owner. Our journey began with a commitment to redefine the standards of quality and innovation in the world of wood. 
 								Whether you are a homeowner looking to transform your living space, an architect seeking precision in carpentry, or a design enthusiast craving bespoke furniture, we are here to bring your visions to life.
 							</div>
 							<!-- <div class="lower-box">
