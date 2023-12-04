@@ -30,7 +30,7 @@
 							<div class="contact-form">
 
 								<!-- Contact Form -->
-								<form method="post" action="mail.php" id="contact-form">
+								<form method="post" action="mail.php" id="contact-form" autocomplete="off">
 									<div class="row clearfix">
 
 										<div class="col-lg-6 col-md-6 col-sm-12 form-group">
